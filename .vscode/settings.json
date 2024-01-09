@@ -1,0 +1,15 @@
+{
+    "python.testing.pytestArgs": [
+        "--ignore-unknown-dependency"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestPath": ".venv/bin/pytest",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportGeneralTypeIssues": "none",
+        "reportUnknownArgumentType": "none",
+    }
+}

@@ -1,0 +1,2 @@
+# ! Arquivo deve ser destravado: pessoas estudantes podem usá-lo para colocar
+# ! bibliotecas que elas julguem necessárias para o desenvolvimento do projeto
