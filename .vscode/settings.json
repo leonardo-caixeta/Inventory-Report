@@ -6,7 +6,7 @@
     "python.testing.pytestEnabled": true,
     "python.testing.pytestPath": ".venv/bin/pytest",
     "editor.codeActionsOnSave": {
-        "source.organizeImports": true
+        "source.organizeImports": "explicit"
     },
     "python.analysis.diagnosticSeverityOverrides": {
         "reportGeneralTypeIssues": "none",
